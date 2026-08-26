@@ -1,0 +1,6 @@
+{
+  "name": "NESTORA INTERIORS - Luxury Kerala Studio Demo",
+  "description": "A luxury, modern website demo for a premium interior design studio in Kerala, featuring architectural project showcases, before/after comparisons, interactive case studies, and turnkey interior consultation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
